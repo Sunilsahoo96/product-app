@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import { Routes,Route, BrowserRouter } from 'react-router-dom';
 import { Login } from './components/Login';
 import { AuthRoute } from './AuthRoute';
