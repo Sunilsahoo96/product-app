@@ -23,7 +23,7 @@ A full-featured React product application demonstrating **login authentication**
 
 ```bash
 git clone https://github.com/Sunilsahoo96/product-app.git
-cd react-product-app
+cd product-app
 
 ##  Install Dependencies
 
