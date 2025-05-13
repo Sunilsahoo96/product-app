@@ -5,16 +5,24 @@ body{
     height: 100vh;
 }
 
-.login-container{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    min-width: 300px;
-    min-height: 300px;
-    padding: 20px;
-    background-color: #f4f4f4;
+.login-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-width: 320px;
+  min-height: 360px;
+  padding: 30px 40px;
+  background-color: #e3f2fd;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease;
 }
+
+.login-container:hover {
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.15);
+}
+
 
 h2{
     color: black;
