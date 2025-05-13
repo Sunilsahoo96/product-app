@@ -1,5 +1,9 @@
 # 🚀 React Product App – Authentication Enabled
 
+### 1️⃣ To Login Use Email and Password As
+Email : eve.holt@reqres.in
+Password : cityslicka
+
 A full-featured React product application demonstrating **login authentication**, **protected routes**, and **token-based session management**, using mock API [ReqRes](https://reqres.in) for demonstration.
 
 ---
